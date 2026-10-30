@@ -1,5 +1,3 @@
-### 🖼️ Repositori: `digital-image-processing-python` (Pengolahan-Citra-Digital)
-
 # 🖼️ Digital Image Processing with Python & OpenCV
 
 > Kumpulan implementasi algoritma dasar pemrosesan citra digital menggunakan Python untuk manipulasi, pemfilteran, dan perbaikan kualitas gambar.
